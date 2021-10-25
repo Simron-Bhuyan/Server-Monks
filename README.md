@@ -13,3 +13,12 @@ Login Credentials :-
   
   To register go to new user 
   and to login go to login.
+  
+  
+<!--  Project Includes -->
+Technologies Used - angular, node, express, mongodb
+
+1. User can register or login 
+2. Password are hashed in the database
+3. Authorisation and authentication added in backend.
+4. Routes are protected on the frontend except home route using guards.
